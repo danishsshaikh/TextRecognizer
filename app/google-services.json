@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291103613730",
+    "firebase_url": "https://text-recognizer-dce70.firebaseio.com",
+    "project_id": "text-recognizer-dce70",
+    "storage_bucket": "text-recognizer-dce70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291103613730:android:d83a7eff5ca24927b7bb7b",
+        "android_client_info": {
+          "package_name": "com.dan.textrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291103613730-mqgmcpbabe7924vbfanhbao9ll95jufj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dan.textrecognizer",
+            "certificate_hash": "308ddcc7ac9877d827e71fa5f68d25d4aff9b167"
+          }
+        },
+        {
+          "client_id": "291103613730-2lkvif1ni50gt4e66db217kdlei0asji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBEk_X5jll4Thw_Pdn6Fq8Rsf7k-eD18E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291103613730-2lkvif1ni50gt4e66db217kdlei0asji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
